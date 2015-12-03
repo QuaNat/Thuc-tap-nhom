@@ -25,3 +25,17 @@ D:\File_GitHub\Data\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.fr
 D:\File_GitHub\Data\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmTBThietBi.resources
 D:\File_GitHub\Data\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmThuePhong.resources
 D:\File_GitHub\Data\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmSuDungDV.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\bin\Debug\QuanLiPhongKS.exe.config
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QuanLiPhongKS.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QuanLiPhongKS.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\bin\Debug\QuanLiPhongKS.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\bin\Debug\QuanLiPhongKS.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmSuDungDV.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmMenu.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmKhachHang.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmTBThietBi.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmPhong.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.Properties.Resources.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.frmThuePhong.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_5\QuanLiPhongKS\QuanLiPhongKS\obj\Debug\QLPhongKS.csproj.GenerateResource.Cache

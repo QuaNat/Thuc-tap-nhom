@@ -30,3 +30,15 @@ D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
 D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
 =======
 >>>>>>> origin/master
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache

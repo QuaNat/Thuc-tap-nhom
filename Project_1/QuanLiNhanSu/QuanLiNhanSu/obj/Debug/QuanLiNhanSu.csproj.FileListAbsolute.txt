@@ -19,3 +19,6 @@ D:\File_GitHub\Data\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.p
 C:\Users\VAIO\Desktop\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
 C:\Users\VAIO\Desktop\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
 C:\Users\VAIO\Desktop\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb

@@ -37,3 +37,14 @@ C:\Users\VAIO\Desktop\Hoc Tap\Project_1\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\Quan
 C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project 1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
 C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project 1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
 C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project 1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmDangNhap.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmMain.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmMenu.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+C:\Users\VAIO\Documents\GitHub\Thuc-tap-nhom\Project_1\QuanLiNhanSu\QuanLiNhanSu\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.Cache
